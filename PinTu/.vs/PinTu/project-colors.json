@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "52ed82ea-6c29-4ca2-a55e-cf985745f5ef": {
+      "ProjectGuid": "52ed82ea-6c29-4ca2-a55e-cf985745f5ef",
+      "DisplayName": "PinTu",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
