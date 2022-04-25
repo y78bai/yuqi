@@ -1,0 +1,1 @@
+https://www.i-gamer.net/mobile/html5/1178.html
